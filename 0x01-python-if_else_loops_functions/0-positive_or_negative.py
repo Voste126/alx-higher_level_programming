@@ -7,3 +7,7 @@ elif number == 0:
     print("{} is zero".format(number))
 else:
     print("{} is negative".format(number))
+<<<<<<< HEAD
+
+=======
+>>>>>>> 8a4620e9598065bae878d8aac2e92a17612796da
